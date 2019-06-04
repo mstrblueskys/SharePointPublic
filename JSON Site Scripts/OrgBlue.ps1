@@ -30,6 +30,6 @@ $themeOne = @{
         }
 
 # Adds the theme tennant wide
-Add-PnPTenantTheme -Identity "NMDP Blue Theme" -Palette $themeOne -IsInverted $false
+Add-PnPTenantTheme -Identity "Org Blue Theme" -Palette $themeOne -IsInverted $false
 
 Get-PnPSiteDesign 
