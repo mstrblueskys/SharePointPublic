@@ -1,6 +1,6 @@
 #############################################################################
 #
-#          Be the Match - SharePoint site Creation from CSV
+#                SharePoint site Creation from CSV
 #                        by Matt Peterson
 #                          3/25/2019
 #

@@ -1,6 +1,6 @@
 #############################################################################
 #
-#               Be the Match - SharePoint site Creation
+#                   SharePoint site Creation
 #                        by Matt Peterson
 #                          1/31/2019
 #
