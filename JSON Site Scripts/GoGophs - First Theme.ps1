@@ -1,9 +1,9 @@
-///////////////////////////////////////////////////////////////////////////
-//
-//         THIS IS A POWERSHELL SCRIPT SAVED AS A JSON FILE
-//          FOR JSON VISIBILITY PURPOSES ONLY - DO NOT RUN
-//
-///////////////////////////////////////////////////////////////////////////
+######################################################################################################
+# 
+# Create a Theme and add it to the tenant
+# By Matt Peterson, May 2019
+#
+######################################################################################################
 
 Connect-PnPOnline -Url https://[Org].sharepoint.com -Credentials:SharePointAdmin
 
