@@ -3,7 +3,7 @@ Connect-PnPOnline -Url https://[Org].sharepoint.com -Credentials:SharePointAdmin
 # Theming can be developed automatically at the following URL:
 # https://fabricweb.z5.web.core.windows.net/pr-deploy-site/refs/pull/9015/merge/theming-designer/index.html
 
-# Set the PowerShell output to the variable 
+# Set the PowerShell output from the theme generator 
 $themeOne = @{
         "themePrimary" = "#0079c1";
         "themeLighterAlt" = "#f2f9fd";
